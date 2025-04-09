@@ -74,7 +74,7 @@ altgr = '''
 '''
 
 [spacebar]
-shift       = "\u202f"  # NARROW NO-BREAK SPACE
+shift       = "\u0020"  # SPACE
 altgr       = "\u0020"  # SPACE
 altgr_shift = "\u00a0"  # NO-BREAK SPACE
 1dk         = "\u2019"  # RIGHT SINGLE QUOTATION MARK
